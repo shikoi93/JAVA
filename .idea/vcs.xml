@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Programs/JNIT-WORK" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Programs/eclipse-workplace/JNIT-WORK" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Programs/eclipse-workplace/SpringBeforeAfterExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Programs/eclipse-workplace/SpringBoot_MySQL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Programs/eclipse-workplace1/JNIT-WORK" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Programs/eclipse-workplace1/SpringBeforeAfterExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Programs/eclipse-workplace1/SpringBoot_MySQL" vcs="Git" />
+  </component>
+</project>
